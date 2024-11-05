@@ -14,13 +14,6 @@ export default defineNuxtConfig({
     },
   },
 
-  router: {
-    base: '/joeroth74.github.io/'
-  },
-
-  mode: 'static',
-  target: 'static',
-
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true }
 });
